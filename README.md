@@ -109,7 +109,7 @@ Next.js • React • MUI • Styled Components
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/umesh-yadav2611
+- LinkedIn: https://linkedin.com/in/umeshyadav97/
 - Portfolio: Coming Soon
 - Email: umtp97@gmail.com
 
