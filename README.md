@@ -127,20 +127,17 @@ AI-driven platform that helps businesses generate project estimations, timelines
 Next.js • React • Material UI • Styled Components • OpenAI API
 
 ---
+## 🚀 Featured Work
 
-## 📊 GitHub Stats
+⭐ AI-powered Government Jobs Platform (SarkariMate)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umeshyadav97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+⭐ Enterprise POS System
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=umeshyadav97&theme=tokyonight&hide_border=true" />
-</p>
+⭐ Multi-domain E-commerce Platform
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshyadav97&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+⭐ AI Product Builder
+
+⭐ Modern Portfolio
 ---
 
 ## 🌐 Connect With Me
